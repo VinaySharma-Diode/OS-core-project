@@ -1,0 +1,14 @@
+# Core GUI framework
+PyQt5==5.15.9
+
+# Charting and visualization
+matplotlib==3.8.2
+
+# PDF export
+reportlab==4.0.9
+
+# Optional: logging enhancements
+loguru==0.7.2
+
+# Optional: data persistence (if you extend file_io)
+pandas==2.2.1
